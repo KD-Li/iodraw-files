@@ -157,7 +157,7 @@
             <mxPoint x="760" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nfqu7tvFQSjWwx91J0B2-58" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nfqu7tvFQSjWwx91J0B2-52">
+        <mxCell id="Nfqu7tvFQSjWwx91J0B2-58" value="SDN北向接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nfqu7tvFQSjWwx91J0B2-52">
           <mxGeometry x="-0.0979" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
