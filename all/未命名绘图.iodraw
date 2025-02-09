@@ -157,7 +157,7 @@
             <mxPoint x="760" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nfqu7tvFQSjWwx91J0B2-58" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SDN北向接口&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nfqu7tvFQSjWwx91J0B2-52">
+        <mxCell id="Nfqu7tvFQSjWwx91J0B2-58" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SDN北向接口（NBI）&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nfqu7tvFQSjWwx91J0B2-52">
           <mxGeometry x="-0.0979" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -166,6 +166,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="600" as="sourcePoint" />
             <mxPoint x="760" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nfqu7tvFQSjWwx91J0B2-59" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nfqu7tvFQSjWwx91J0B2-53">
+          <mxGeometry x="-0.1635" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nfqu7tvFQSjWwx91J0B2-55" value="&lt;b&gt;应用平面&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
