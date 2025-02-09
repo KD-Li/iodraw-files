@@ -86,7 +86,7 @@
           <mxGeometry y="24.999999999999996" width="216" height="24.999999999999996" as="geometry" />
         </mxCell>
         <mxCell id="Nfqu7tvFQSjWwx91J0B2-24" value="SDN控制器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="410" width="80" height="30" as="geometry" />
+          <mxGeometry x="320" y="450" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
