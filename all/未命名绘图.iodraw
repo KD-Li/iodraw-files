@@ -91,7 +91,7 @@
         <mxCell id="Nfqu7tvFQSjWwx91J0B2-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="640" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nfqu7tvFQSjWwx91J0B2-32" value="SDN应用程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Nfqu7tvFQSjWwx91J0B2-32" value="网络设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="640" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nfqu7tvFQSjWwx91J0B2-33" value="" style="group" vertex="1" connectable="0" parent="1">
