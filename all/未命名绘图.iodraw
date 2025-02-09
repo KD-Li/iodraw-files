@@ -180,7 +180,7 @@
           <mxGeometry x="120" y="430" width="20" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Nfqu7tvFQSjWwx91J0B2-57" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;数据平面&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="620" width="20" height="130" as="geometry" />
+          <mxGeometry x="120" y="610" width="20" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
