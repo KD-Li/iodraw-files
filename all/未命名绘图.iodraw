@@ -164,7 +164,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nfqu7tvFQSjWwx91J0B2-55" value="应用平面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="320" width="60" height="130" as="geometry" />
+          <mxGeometry x="120" y="270" width="20" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
