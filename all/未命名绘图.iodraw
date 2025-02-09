@@ -74,19 +74,19 @@
           <mxGeometry x="310" y="440" width="250" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Nfqu7tvFQSjWwx91J0B2-27" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="350" y="480" width="180" height="80" as="geometry" />
+          <mxGeometry x="330" y="480" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Nfqu7tvFQSjWwx91J0B2-25" value="NBI驱动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nfqu7tvFQSjWwx91J0B2-27">
-          <mxGeometry y="33.33333333333333" width="162" height="16.666666666666664" as="geometry" />
+          <mxGeometry y="49.99999999999999" width="216" height="24.999999999999996" as="geometry" />
         </mxCell>
         <mxCell id="Nfqu7tvFQSjWwx91J0B2-26" value="" style="group" vertex="1" connectable="0" parent="Nfqu7tvFQSjWwx91J0B2-27">
-          <mxGeometry width="180" height="80" as="geometry" />
+          <mxGeometry width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Nfqu7tvFQSjWwx91J0B2-20" value="SDN应用逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nfqu7tvFQSjWwx91J0B2-26">
-          <mxGeometry width="162" height="16.666666666666664" as="geometry" />
+          <mxGeometry width="216" height="24.999999999999996" as="geometry" />
         </mxCell>
         <mxCell id="Nfqu7tvFQSjWwx91J0B2-21" value="NBI驱动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nfqu7tvFQSjWwx91J0B2-26">
-          <mxGeometry y="16.666666666666664" width="162" height="16.666666666666664" as="geometry" />
+          <mxGeometry y="24.999999999999996" width="216" height="24.999999999999996" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
